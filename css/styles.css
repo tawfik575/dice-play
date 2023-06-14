@@ -1,0 +1,72 @@
+:root {
+  --lobster: 'Lobster', cursive;
+  --indie: 'Indie Flower', cursive;
+  --courgette: 'Courgette', cursive;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 8rem;
+  color: #4ECCA3;
+  font-family: var(--lobster);
+  text-shadow: 5px 0 #232931;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: var(--indie);
+}
+
+.btn {
+  border: none;
+  display: block;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 28px;
+  margin: 1.01rem auto;
+  background: #4ECCA3;
+  text-decoration: none;
+  -moz-border-radius: 28;
+  font-family: var(--lobster);
+  padding: 10px 20px 10px 20px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  text-decoration: none;
+  background: #2E8A99;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+footer {
+  color: #EEEEEE;
+  text-align: center;
+  margin-top: 2.0625rem;
+  font-family: var(--indie);
+}
+
+#hint {
+  font-size: 1rem;
+  color: #9BCDD2;
+  font-family: var(--courgette);
+}
+
+img {
+  width: 80%;
+}
