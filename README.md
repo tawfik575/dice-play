@@ -12,6 +12,7 @@ This website includes the following features:
 * **Random Dice Roll:** The game generates random numbers for each player's dice roll, simulating the unpredictability of physical dice.
 * **Round-based Gameplay:** The game is played in rounds, allowing players to compete against each other multiple times.
 * **Interactive Interface:** The game features an intuitive and user-friendly interface that makes it easy for players to initiate rounds and view their scores or points.
+* **Sound Effects:** The game includes sound effects to indicate when the dice are rolled and to enhance the gaming experience.
 
 ## Technologies Used
 
