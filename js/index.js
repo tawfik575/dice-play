@@ -1,4 +1,7 @@
 function play() {
+    const audio = new Audio("./sounds/dice.mp3");
+    audio.play();
+
     let randomNumber1 = Math.floor(Math.random() * 6 + 1);
     let randomNumber2 = Math.floor(Math.random() * 6 + 1);
 
