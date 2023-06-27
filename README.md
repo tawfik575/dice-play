@@ -1,6 +1,6 @@
 # Dice Play
 
-The Dice Play is a web-based game developed using HTML, CSS, and JavaScript that brings the excitement of rolling dice to the screen. It is a simple and interactive game where two virtual players compete against each other to see who can roll the highest points. In the game, a user click a play button to initiate a round. Two dice are rolled for each virtual player, generating random numbers. The points of the players are then compared, and the player with the higher points wins the round.
+The Dice Play is a web-based game developed using HTML, CSS, and JavaScript that brings the excitement of rolling dice to the screen. It is a simple yet interactive game where two virtual players compete against each other to see who can roll the highest points. In the game, a user click a play button to initiate a round. Two dice are rolled for each virtual player, generating random numbers. The points of the players are then compared, and the player with the higher points wins the round.
 
 ![my screenshot](./images/screenshot.png)
 
